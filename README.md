@@ -1,4 +1,4 @@
- [![MasterHead](https://antasya.com/wp-content/uploads/2021/09/blog4.jpg)
+![MasterHead](https://antasya.com/wp-content/uploads/2021/09/blog4.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Gül</h1>
