@@ -1,6 +1,3 @@
-![MasterHead](https://antasya.com/wp-content/uploads/2021/09/blog4.jpg)
-
-
 <h1 align="center">Hi 👋, I'm Gül</h1>
 <h3 align="center">A passionate testing software specialist from Turkey</h3>
 
